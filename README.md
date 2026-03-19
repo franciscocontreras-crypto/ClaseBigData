@@ -105,3 +105,4 @@ Cada función tiene un propósito diferente:
 * balance verifica si una lista puede dividirse en dos partes con la misma suma.
 
 * palindromo revisa si una palabra se lee igual al derecho y al revés.
+
