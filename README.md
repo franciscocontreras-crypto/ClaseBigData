@@ -1,7 +1,7 @@
 * Integrante: Francisco
 * Integrante : Luis Lazcano
 
-# Práctica 2
+#  Práctica 2
 ```scala 
 val lista = List("rojo", "blanco" , "negro")
 val lista: List[String] = List(rojo, blanco, negro)
