@@ -1817,3 +1817,11 @@ WARNING: Unmatched cancel notification for request id 12
 Apr 15, 2026 7:23:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 10
 2026.04.15 19:23:04 INFO  no build target found for C:\Users\luislazcano\Documents\MaestriaMGTIC\2026-1\BigData\RepoFrancisco\ClaseBigData\unit_1\practicas\practica_2.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.15 20:50:12 INFO  Shutting down server
+2026.04.15 20:50:12 INFO  Memory monitor stopped
+2026.04.15 20:50:12 INFO  shutting down Metals
+2026.04.15 20:50:12 INFO  Exiting server
+2026.05.20 18:36:33 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\luislazcano\Documents\MaestriaMGTIC\2026-1\BigData\RepoFrancisco' for client Visual Studio Code 1.119.0.
+2026.05.20 18:36:37 INFO  time: initialize in 0.6s
+2026.05.20 18:36:40 INFO  Memory monitor started
+2026.05.20 18:37:13 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
